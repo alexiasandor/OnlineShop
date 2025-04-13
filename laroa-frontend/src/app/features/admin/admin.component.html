@@ -1,0 +1,58 @@
+<section id="admin">
+    <section class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="productHeading text-center">
+                    <h2 class="mb-3">Admin</h2>
+                </div>
+                <div class='page-main-container container'>
+                    <button type="button" class="btn btn-primary" (click)="getAllAdmins()">See All Administrators</button>
+                    <br><br>
+                    <table class="table">
+                        <thead>
+                        <tr>
+                            <th scope="col">Nume</th>
+                            <th scope="col">Prenume</th>
+                            <th scope="col">Email</th>
+                            <th scope="col">Permisiuni</th>
+                            <!-- Add more table headers if needed -->
+                        </tr>
+                        </thead>
+                        <tbody *ngFor="let admin of admins">
+                        <tr>
+                            <td>{{ admin.nume }}</td>
+                            <td>{{ admin.prenume }}</td>
+                            <td>{{ admin.email }}</td>
+                            <td>{{ admin.permisiuni }}</td>
+                            <!-- Add more table cells if needed -->
+                        </tr>
+                        </tbody>
+                    </table>
+                    <br> <br> <br> <br> <br><br>
+
+                    <div id="centeredImageContainer">
+                        <img src="../../../assets/images/shoe-ad.jpg" alt="Centered Image" id="centeredImage2" class="img-fluid">
+                    </div>
+
+                    <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <!-- ... Instagram icon content ... -->
+                        </svg>
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+                            <!-- ... Twitter icon content ... -->
+                        </svg>
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-facebook" viewBox="0 0 16 16">
+                            <!-- ... Facebook icon content ... -->
+                        </svg>
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
+                            <!-- ... WhatsApp icon content ... -->
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</section>

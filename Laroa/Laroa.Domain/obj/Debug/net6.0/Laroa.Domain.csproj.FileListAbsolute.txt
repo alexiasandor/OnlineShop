@@ -1,0 +1,15 @@
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\bin\Debug\net6.0\Laroa.Domain.deps.json
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\bin\Debug\net6.0\Laroa.Domain.runtimeconfig.json
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\bin\Debug\net6.0\Laroa.Domain.dll
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\bin\Debug\net6.0\Laroa.Domain.pdb
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.csproj.AssemblyReference.cache
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.AssemblyInfoInputs.cache
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.AssemblyInfo.cs
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.csproj.CoreCompileInputs.cache
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.sourcelink.json
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.dll
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\refint\Laroa.Domain.dll
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.pdb
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\Laroa.Domain.genruntimeconfig.cache
+D:\an 3\ProjectIS\Proiect_IS\Laroa\Laroa.Domain\obj\Debug\net6.0\ref\Laroa.Domain.dll

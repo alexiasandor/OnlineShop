@@ -1,0 +1,21 @@
+<section id="product">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="productHeading text-center">
+          <h2 class="mb-3">Exclusive Collections</h2>
+          <ul class="list-unstyled d-flex justify-content-center">
+            <li *ngFor="let collection of collections" class="m-4">
+              <a [routerLink]="['/', collection.name.toLowerCase().replace(' ', '-')]"
+                 class="text-decoration-none text-danger fw-semibold">
+                {{ collection.name }}
+              </a>
+              <img [src]="collection.imageUrl" alt="{{ collection.name }}" class="img-fluid mt-2" style="height: 200px;" />
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
